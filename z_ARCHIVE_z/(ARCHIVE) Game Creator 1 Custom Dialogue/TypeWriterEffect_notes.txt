@@ -1,0 +1,37 @@
+        public string GetText(int visibleCharacters)
+        {
+            #pragma warning disable XS0001
+            StringBuilder builder = new StringBuilder();
+            #pragma warning restore XS0001
+
+            Stack<int> pendingTags = new Stack<int>();
+
+            for (int i = 0; i < visibleCharacters; ++i)
+            {
+                if (i >= this.symbols.Count) break;
+                builder.Append(this.symbols[i].character);
+
+                switch (this.symbols[i].type)
+                {
+                    case SymbolType.OpenTag :
+                        pendingTags.Push(i);
+                        //THIS IS WHERE THE CHARACTER START BEING PRINTED IN TYPEWRITER EFFECT; tagline: l33tkim
+                        break;
+
+                    case SymbolType.CloseTag:
+                        pendingTags.Pop();
+                        //Debug.Log("TypeWriterEffect.cs -> " + "HAS THE LAST CHARACTER BEEN PRINTED???");
+                        //THIS IS WHERE THE CHARACTER START BEING PRINTED IN TYPEWRITER EFFECT; tagline: l33tkim
+                        break;
+                }
+            }
+
+            while (pendingTags.Count > 0)
+            {
+                int index = pendingTags.Pop();
+                int tagIndex = this.symbols[index].tagIndex;
+                builder.Append(TAGS[tagIndex].close);
+            }
+
+            return builder.ToString();
+        }

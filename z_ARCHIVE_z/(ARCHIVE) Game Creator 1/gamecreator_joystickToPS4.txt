@@ -1,0 +1,15 @@
+PS4 Controllers:
+Joystick Button 0 -> Square
+Joystick Button 1 -> Cross
+Joystick Button 2 -> Circle
+Joystick Button 3 -> Triangle
+Joystick Button 4 -> L1
+Joystick Button 5 -> R1
+Joystick Button 6 -> L2
+Joystick Button 7 -> R2
+Joystick Button 8 -> Share button
+Joystick Button 9 -> Options button
+Joystick Button 10 -> Press Left Joystick
+Joystick Button 11 -> Press Left Joystick
+Joystick Button 12 -> Playstation Button
+Joystick Button 13 -> TouchPad

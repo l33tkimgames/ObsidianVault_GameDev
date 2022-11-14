@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "17c23897a97db553",
+    "type": "split",
+    "children": [
+      {
+        "id": "03a249168fc98a5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e28cff9780e11f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown_Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a1288c816a9637c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ABC Toolkit/gamecreator_abc_notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddd1160cc41d62c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "607bcf7d57787768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84dd3213d7de8744",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8db9c79b8cf60c84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e59b31cc40346478",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "49677e2b473a85c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d4d872c23be3f88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde0bfb912f211c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ABC Toolkit/gamecreator_abc_notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbe9fbbbbbf8131b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ABC Toolkit/gamecreator_abc_notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba83e7b2bc9315b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f45bc49ed0ebf8b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ABC Toolkit/gamecreator_abc_notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a1288c816a9637c",
+  "lastOpenFiles": [
+    "ABC Toolkit/gamecreator_abc_integration.md",
+    "ABC Toolkit/gamecreator_abc_gc_brawler.md",
+    "Game Creator 2/How To - GC2 Visual Scripting.md",
+    "Game Creator 2/GC2 & FEEL Integration.md",
+    "Game Creator 2/REFERENCES/List of tags in the inspector - Unity Answers_files/d4e0ea157667186e5fa4751d7bb20ce7.jpeg",
+    "Game Creator 2/REFERENCES/List of tags in the inspector - Unity Answers_files/avi.jpg",
+    "Game Creator 2/REFERENCES/List of tags in the inspector - Unity Answers_files/c66cf85d5930bd782a689e0b5964b67d.png",
+    "Game Creator 2/REFERENCES/List of tags in the inspector - Unity Answers_files/ah-logo-white.png",
+    "Game Creator 2/REFERENCES/List of tags in the inspector - Unity Answers_files/53b62659b53e3b6d66fdf0c827d0faf1.png",
+    "Game Creator 2/REFERENCES/List of tags in the inspector - Unity Answers_files/3c10c58d579fdc4e36c076851a229461.png"
+  ]
+}
