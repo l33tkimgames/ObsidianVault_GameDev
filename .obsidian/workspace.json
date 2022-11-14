@@ -37,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md",
+                "file": "Game Creator 2/GC2 & FEEL Integration/2. How To Code a Custom Instruction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7bbab8421a70d690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Creator 2/GC2 & FEEL Integration/Assumptions.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md",
+                "file": "Game Creator 2/GC2 & FEEL Integration/Assumptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md",
+                "file": "Game Creator 2/GC2 & FEEL Integration/Assumptions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md"
+                "file": "Game Creator 2/GC2 & FEEL Integration/Assumptions.md"
               }
             }
           }
@@ -173,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "910ab7165fb17a87",
+  "active": "7bbab8421a70d690",
   "lastOpenFiles": [
     "Game Creator 2/GC2 & FEEL Integration/2. How To Code a Custom Instruction.md",
     "Game Creator 2/GC2 & FEEL Integration/1. Code Flow - Custom FEEL Instruction.md",
+    "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md",
+    "Game Creator 2/GC2 & FEEL Integration/Archived Note - GC2 & FEEL Integration.md",
+    "Markdown_Cheatsheet.md",
     "Unity Asset Documentation/Game Creator Combat Module Documentation.pdf",
     "Graphics, Visuals, & Models/Notes - VROID Effects.md",
     "Graphics, Visuals, & Models/Notes - URP Tips (Unity).md",
     "Graphics, Visuals, & Models/Notes - Special Effect Assets.md",
-    "Graphics, Visuals, & Models/How To- Shader - Nilotoon.md",
-    "Game Creator 2/How To - GC2 Visual Scripting.md",
-    "Game Creator 2/GC2 & FEEL Integration/Archived Note - GC2 & FEEL Integration.md",
-    "Markdown_Cheatsheet.md"
+    "Graphics, Visuals, & Models/How To- Shader - Nilotoon.md"
   ]
 }
