@@ -1,4 +1,4 @@
-# FEEL Assets  ============================================================
+# FEEL Assets
  * MAKE SURE THE FEEL ASSET IS ALREADY INSTALLED!!!!!
 
 
@@ -19,24 +19,21 @@
 
 
 
-# Magic Assets ============================================================
+# Magic Assets
 
-## STYLIZED -----------------------------
+## STYLIZED
 + `Imagy VFX` from _Inguz Media_
   - Looks really cool and stylized
   - Has a really cool impact
   - Has a really cool shadow shadow effect
-  
 
 + `VFX Graph Project - Thunderlord` from _Gabriel Aguiar Prod_
-
 
 + `Stylized Hit & Slash` from _VFX Klaus_
 + `Stylized Element Splash Package vol.1` from _VFX Klaus_
   - Has a cool **evil smile dark** attack & **skull poison** attack
 + `Stylized Element Splash Package vol.2` from _VFX Klaus_
   - Has a cool **evil eye** attack
-
 
 + `Top Down Effects` from _SineVFX_
   - Really liquidy cool looking
@@ -45,11 +42,9 @@
   - `Stylized Explosion Pack 1`
   - `Stylized Projectile Pack 1`
   - `Stylized Projectile Pack 2`
-  
 
 
-
-## HOVL Studio -----------------------------
+## HOVL Studio
  + `Magic Circles and Shields Vol.2` from _Hovl Studio_
  + `Magic Circles and Shields Vol.3` from _Hovl Studio_
  + Wizard spells pack from Hovl Studio
@@ -58,17 +53,15 @@
 
 
 
-## Other ----------------------------------
+## Other
 + `Perfect RPG MMO 3D Effect VFX Pack 2` from _AppsTools Studio_
 + `Magic Hits` _Hovl Studio_
 + `100 Special Skills Effects Pack` from _GAPH_
 
-
-
 **there are more projectile effects not listed**
 
 
-# Brawler Effect Assets ===================================================
+# Brawler Effect Assets
 
 + `Free 2D Imact Fx` from _Inguz Media_
 + `VFX Graph Project - Thunderlord` from _Gabriel Aguiar Prod_
@@ -90,17 +83,17 @@
 
 
 
-# SHADOW CLAW TELEPORTER ==================================================
+# SHADOW CLAW TELEPORTER
 * s
 
-# ANIME Power =============================================================
+# ANIME Power
 
 + The `Imagery VFX` asset has an **scroll ink attack** by _Inguz Media_
 + `Projectiles FX` has a cool **bat attack** by _Inguz Media_
 
 
 
-# TOON Power ==============================================================
+# TOON Power
 + `Unique Toon Projectiles Vol. 1` by _Gabriel Aguiar Prod_
 + `Unique Toon Projectiles Vol. 2` by _Gabriel Aguiar Prod_
 

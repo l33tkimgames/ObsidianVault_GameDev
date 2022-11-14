@@ -6,3 +6,5 @@
   + VSDC free software https://www.videosoftdev.com/create-gif-or-video-with-transparent-background
   + Video to spritesheet: https://github.com/tylertroy/video2sprites
   + Made 2D animation in Unity: https://www.youtube.com/watch?v=hkaysu1Z-N8
+
+-------
