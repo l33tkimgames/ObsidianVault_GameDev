@@ -38,9 +38,10 @@ segment
 
 
 # Color
+
+### 1. Add Color
 ```markdown
 <span style="color:colorname;">text</span>
-
 ```
 
 |  | |
@@ -53,7 +54,12 @@ segment
 |<span style="color:SaddleBrown;">SaddleBrown</span>|<span style="color:YellowGreen;">YellowGreen</span>|<span style="color:DarkOliveGreen;">DarkOliveGreen</span>|
 |<span style="color:Lime;">Lime</span>|<span style="color:LightGreen;">LightGreen</span>|<span style="color:DimGray;">DimGray</span>|
 
+### 2. Color & Bold
+```markdown
+<strong><span style="color:colorname;">text</span></strong>
+```
 
+### 3. Color & Custom Size
 
 <span style="font-size:50px;">I am big</span>
 
