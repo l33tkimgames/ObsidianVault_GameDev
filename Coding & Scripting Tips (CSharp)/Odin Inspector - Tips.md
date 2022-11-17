@@ -7,8 +7,10 @@
 	+ Useful for VROID Stuff?
 	+ Useful for Persona Style HUD?
 	+ Useful for animating Persona portraits?
++ [Scritable Object Creator - Community Tool](https://odininspector.com/community-tools/540/scriptableobject-creator)
 
 -----------
+
 2. **IMPORTED** Libraries
 ```C#
 using UnityEditor;
@@ -18,5 +20,11 @@ using Sirenix.Utilities.Editor;
 ```
 
 --------
+
+3. **COMMUNITY TOOLS**
+[Tools Other people made with Odin Inspector](https://odininspector.com/community-tools)
+
+---
+
 
 

@@ -2,7 +2,6 @@ RVR Video: https://www.youtube.com/watch?v=KuuLEPnCRpM
 
 1. Make sure Unity's `Visual Scripting` is installed
 
-
 2. Make sure _Game Creator 2's_ `Visual Scripting` plugin in installed 
   + Double click `D:\UnityAssets\GC2\unity-visual-scripting.unitypackage`
    - This should install the Game Creator 2's plugin for visual scripting 

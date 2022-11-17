@@ -9,3 +9,7 @@
 	* Assumes only 1 `GameObject` will be playing a FEEL effect at a given frame
 	* This particular `GameObject` that is NOT the player that will have the effects added
 
+4. Make sure the `Main Camera` has
+	* CinemachineVirtualCamera
+	* Universal Additional Camera Data (Script)
+
