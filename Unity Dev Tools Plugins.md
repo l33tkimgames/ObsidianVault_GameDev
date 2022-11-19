@@ -8,7 +8,7 @@
 + Visual Scripting: Helps `modularize` GC2 functionality
 ```
 
-**Not YET Used**
+* ***Not YET Used**
 ```
 - PuppetMaster: Used in RVR GC2 Tutorial
 - FlowReactor: Visual Scripting Tool
@@ -27,6 +27,9 @@
 
 * **Not YET Used**
 ```
+- Runtime Editor
+- Mesh Baker
+- Smart Library - Asset Manager
 - Editor Console Pro: A more robust `Debug.Console()` logs
 - UI Preview for Prefabs and Canvases
 - Prefab Fixer
@@ -35,6 +38,14 @@
 - Curvy Spline
 - Dreamteck Spline
 - Prefab Brush
+```
+
+---
+
+### GPU Instancing
+**Not YET Used**
+```
+GPU Instancer
 ```
 
 ---
@@ -48,7 +59,7 @@
 + Startup Manager 2
 ```
 
-**Not YET Used**
+* ***Not YET Used**
 ```
 - Easy State
 ```
@@ -56,7 +67,7 @@
 ---
 ### State Machine
 
-**Not YET Used**
+* ***Not YET Used**
 ```
 - SuperPosition - NonDestructive Object Editing
  * Timestamp settings
@@ -65,7 +76,7 @@
 ---
 ### Animation / Animator
 
-**Not YET Used**
+* ***Not YET Used**
 ```
 - Animation Preview Pro
 - DoTween Pro
@@ -80,7 +91,7 @@
 ---
 ### Audio 
 
-**Not YET Used**
+* ***Not YET Used**
 ```
 - Everloop: Nonlinear Soundtrack
  * Make non loopable music loopable?
@@ -89,7 +100,7 @@
 ---
 ### UI / HUD
 
-**Not YET Used**
+* ***Not YET Used**
 ```
 - Graphics Control: Illumisoft
 - Volume Control: Illumisoft
@@ -104,7 +115,7 @@
 ---
 ### Art (Add Graffitti or Decals to help `modularize` assets)
 
-**Not YET Used**
+* ***Not YET Used**
 ```
 - Easy Decal
 - Studio Lively
@@ -130,5 +141,21 @@
 + (Look at `generator` keyword in assets)
 ```
 
+* **Not YET Used**
+```
+```
 
 ---
+
+### Magic / Enemy / AI
+
+* ***Not YET Used**
+```
++ Magic Pro
++ FAI - Fish AI
+   * Swarm function (like birds or small monsters)
+   * Should swarm be a power you character has?
+```
+
+---
+
