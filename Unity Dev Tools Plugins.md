@@ -11,6 +11,7 @@
 * ***Not YET Used**
 ```
 - PuppetMaster: Used in RVR GC2 Tutorial
+- Koreographer Profession Edition
 - FlowReactor: Visual Scripting Tool
 - Jigsaw Puzzle: Creator Kit
 ```
@@ -26,18 +27,27 @@
 ```
 
 * **Not YET Used**
+	* Animation
+	 ```
+	 Animancer Pro
+	 ```
+	 * World Building
+	 ```
+	 - Mesh Combine Studio 2
+	- Mesh Baker
+	- Prefab Fixer
+	- Snappables
+	- Prefab Brush
+	```
+	* Other
 ```
 - Runtime Editor
-- Mesh Baker
 - Smart Library - Asset Manager
 - Editor Console Pro: A more robust `Debug.Console()` logs
 - UI Preview for Prefabs and Canvases
-- Prefab Fixer
 - Runtime Transform Handles
-- Snappables
 - Curvy Spline
 - Dreamteck Spline
-- Prefab Brush
 ```
 
 ---
