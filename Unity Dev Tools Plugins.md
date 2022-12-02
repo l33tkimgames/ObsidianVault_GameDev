@@ -27,13 +27,22 @@
 ```
 
 * **Not YET Used**
+	* Editor Itself
+	```
+	+ Ultimate Editor Enhancer
+	```
+	* Odin Inpsector replacement
+	```
+	+ Auto Custom Inspector
+	```
 	* Animation
 	 ```
 	 Animancer Pro
 	 ```
 	 * World Building
 	 ```
-	 - Mesh Combine Studio 2
+	- Mesh Deformation Full Control (Make a Soul Eater type architecture)
+	- Mesh Combine Studio 2
 	- Mesh Baker
 	- Prefab Fixer
 	- Snappables
@@ -42,6 +51,8 @@
 	* Other
 ```
 - Runtime Editor
+- DevTool (another runtime editor)
+ * it supposedly analyzed code for me
 - Smart Library - Asset Manager
 - Editor Console Pro: A more robust `Debug.Console()` logs
 - UI Preview for Prefabs and Canvases
@@ -59,6 +70,7 @@ GPU Instancer
 ```
 
 ---
+
 ### Coding
 ```
 + Runtime Utilities: DTT
@@ -75,6 +87,7 @@ GPU Instancer
 ```
 
 ---
+
 ### State Machine
 
 * ***Not YET Used**
@@ -84,6 +97,7 @@ GPU Instancer
 ```
 
 ---
+
 ### Animation / Animator
 
 * ***Not YET Used**
@@ -99,6 +113,7 @@ GPU Instancer
 ```
 
 ---
+
 ### Audio 
 
 * ***Not YET Used**
@@ -108,10 +123,13 @@ GPU Instancer
 ```
 
 ---
+
 ### UI / HUD
 
 * ***Not YET Used**
 ```
+- Game Menu UI (this give templates)
+ * should SIGNIFICANTLY automate HUD creation
 - Graphics Control: Illumisoft
 - Volume Control: Illumisoft
 - Modular Motion
@@ -123,6 +141,7 @@ GPU Instancer
 ```
 
 ---
+
 ### Art (Add Graffitti or Decals to help `modularize` assets)
 
 * ***Not YET Used**
@@ -133,18 +152,21 @@ GPU Instancer
 ```
 
 ---
+
 ### Error Stuff / Handling
 ```
 + GUID Fixer & Meta File Modifier
 ```
 
 ---
+
 ### Optimize
 ```
 + (Look at `optimize` keyword in assets)
 ```
 
 ---
+
 ### Generators
 * Like NPC, City, World, Building, Dungeon generators
 ```
