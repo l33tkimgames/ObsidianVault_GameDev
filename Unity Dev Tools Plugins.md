@@ -2,6 +2,7 @@
 * GC2 = Game Creator 2
 
 ---
+
 ### Gameplay
 ```
 + GC2
@@ -66,7 +67,9 @@
 ### GPU Instancing
 **Not YET Used**
 ```
-GPU Instancer
++ GPU Instancer
++ Stylized VFX Trees | GPU Based Effect
++ Global Snowfall | GPU Based Effect
 ```
 
 ---
