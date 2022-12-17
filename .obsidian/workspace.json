@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "03a249168fc98a5e",
+        "id": "d9b85fbcda8ae02f",
         "type": "tabs",
         "children": [
           {
-            "id": "32e28cff9780e11f",
+            "id": "811cf2c0d08f9e00",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36459de48f75136b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Creator 2/GC2 & FEEL Integration/5. GC2 With FEEL CAMERA EFFECTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md",
+                "file": "Game Creator 2/GC2 & FEEL Integration/5. GC2 With FEEL CAMERA EFFECTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md",
+                "file": "Game Creator 2/GC2 & FEEL Integration/5. GC2 With FEEL CAMERA EFFECTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md"
+                "file": "Game Creator 2/GC2 & FEEL Integration/5. GC2 With FEEL CAMERA EFFECTS.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "32e28cff9780e11f",
+  "active": "36459de48f75136b",
   "lastOpenFiles": [
     "Game Creator 2/GC2 & FEEL Integration/2. How To Code a Custom Instruction.md",
-    "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md",
     "Game Creator 2/GC2 & FEEL Integration/4. What FEEL Demos to Draw From.md",
-    "Game Creator 2/GC2 & FEEL Integration/1. Code Flow - Custom FEEL Instruction.md",
-    "Unity Dev Tools Plugins.md",
-    "Rust Integration/Making Library.md",
-    "Graphics, Visuals, & Models/HUDs.md",
-    "Rust Integration/RustOS.md",
-    "Game Creator 2/GC2 & FEEL Integration/Archived Note - GC2 & FEEL Integration.md",
-    "Game Creator 2/How To - GC2 Visual Scripting.md"
+    "Game Creator 2/GC2 & FEEL Integration/5. GC2 With FEEL CAMERA EFFECTS.md",
+    "Game Creator 2/GC2 & FEEL Integration/3. How To Add New FEEL GC2 Effect.md",
+    "Graphics, Visuals, & Models/Convert To URP.md",
+    "Unity Asset Documentation/urp update with latest unity version.pdf",
+    "Unity Asset Documentation/Unity Optimization.PNG",
+    "Unity Asset Documentation/Game Creator 1/Game Creator Combat Module Documentation.pdf",
+    "Graphics, Visuals, & Models/How To- Shader - Nilotoon.md",
+    "Game Creator 2/GC2 & FEEL Integration/1. Code Flow - Custom FEEL Instruction.md"
   ]
 }
